@@ -1,6 +1,6 @@
 # Welcome to Atrium's AI Agent Development Platform
 
-Thank you for joining our developer community! This guide will help you get started with running your AI agent using the Atrium platform. Below are the steps to set up and run your development server.
+This guide will help you get started with running your AI agent using the Atrium platform. Below are the steps to set up and run your development server.
 
 ## Getting Started
 
