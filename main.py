@@ -112,14 +112,14 @@ async def illustration_gen(data):
                     "id": "ng1xl",
                     "type": "p",
                     "children": [
-                        { "text": "Learn more on how to format your message using " },
+                        { "text": "Learn more on how to format your message using the" },
                         {
                         "id": "ppvtq",
-                        "url": "https://platejs.org/",
+                        "url": "https://atrium.st/editor/playground/",
                         "type": "a",
-                        "children": [{ "text": "PlateJS's rich" }]
+                        "children": [{ "text": "Rich Text" }]
                         },
-                        { "text": " text editor." }
+                        { "text": " editor." }
                     ]
                     }
                 ]
